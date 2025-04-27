@@ -1,0 +1,23 @@
+{
+  "name": "badgen",
+  "version": "0.0.0",
+  "description": "Service for make badges",
+  "keywords": [
+    "Badgen"
+  ],
+  "homepage": "https://github.com/RastGame/badgen#readme",
+  "bugs": {
+    "url": "https://github.com/RastGame/badgen/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RastGame/badgen.git"
+  },
+  "license": "Apache-2.0",
+  "author": "RastGame",
+  "type": "commonjs",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  }
+}
